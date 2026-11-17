@@ -43,26 +43,37 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:** Varun A 
 
 ### Register No:
-____________________________  
-
+212224240178
 ---
 
 ## Output
 
 ### i) Write the frame as JPG image
-Captured image is saved as `captured_image.jpg`
+Captured image is saved as `captured_image.jpg
+
+<img width="656" height="512" alt="image" src="https://github.com/user-attachments/assets/f9c04799-7161-48fd-917c-8eab63e77857" />
+
 
 ### ii) Display the video
 Live webcam video is displayed
 
+<img width="787" height="638" alt="Screenshot 2026-11-17 084656" src="https://github.com/user-attachments/assets/8994d7ec-a7e8-488b-9599-9b8ed020f6a4" />
+
+
+
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
 
+<img width="802" height="635" alt="image" src="https://github.com/user-attachments/assets/53d611fc-6ffb-4f6c-b4e4-004268e81598" />
+
+
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+
+<img width="597" height="840" alt="image" src="https://github.com/user-attachments/assets/3315cc5e-6ea8-4aa6-919d-410bdc7b2216" />
 
 ---
 
